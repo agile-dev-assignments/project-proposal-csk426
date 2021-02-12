@@ -3,8 +3,6 @@
 ## Collaborators
 Cindy Kim
 
-Other students interested in this idea and design are welcome! Looking towards working with 4-6 other programmers on this project.
-
 ## What and Why?
 Call Planner is a mobile/web app that will help organize your online schedule. This app aims to help users track all of their scheduled calls from various videocalling applications (e.g. Zoom, GoogleMeets, Slack, etc.) in one place. Instead of hassling through emails and other websites to search for invitation links, this app will provide a compact and visually appealing menu that will display buttons capable of redirecting you straight to the call. Additionally, the app will automatically convert the scheduled meeting time to fit the user's time zone. Understanding your schedule and making calls on time will never be easier!
 
